@@ -1,3 +1,5 @@
+<img width="2532" height="1170" alt="IMG_2023" src="https://github.com/user-attachments/assets/6202ff05-ba3c-4fd5-bf8e-c110d85a3f9f" />
+<img width="2532" height="1170" alt="IMG_2022" src="https://github.com/user-attachments/assets/aba926ce-efed-4574-8b2c-aa7b5f8d0d72" />
 # CI/CD Pipeline using GitHub Actions, Docker Image, AWS ECS & ECR  (Fargate)
 
 **End-to-end, production-style container deployment built from scratch**
